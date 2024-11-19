@@ -1,5 +1,3 @@
-# 2
-
 def calculator():
     num1 = float(input("enter first number: "))
     operator = input("enter operator (+, -, *, /): ")
