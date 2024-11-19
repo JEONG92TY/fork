@@ -1,9 +1,2 @@
 test
 test2
-
-
-<<<<<<< HEAD
-dog
-=======
-cat
->>>>>>> cat
