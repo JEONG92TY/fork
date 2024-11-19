@@ -1,7 +1,0 @@
-testing git
-branch
-
-
-from dog branch
-from cat branch
-rulesets
