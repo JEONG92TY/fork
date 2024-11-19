@@ -12,6 +12,6 @@ def calculator():
     elif operator == "/":
         print(f"result: {num1 / num2}")
     else:
-        print("invalid operator!")
+        print("invalid operator")
 
 calculator()
